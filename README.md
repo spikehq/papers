@@ -7,3 +7,6 @@ Good tech reads consisting of blog posts and papers
 
 ## Incident management
 * [Overview of incident lifecycle in SRE](https://dzone.com/articles/overview-of-incident-lifecycle-in-sre)
+
+## Computer science
+* [Rethinking the progress bar](https://chrisharrison.net/projects/progressbars/ProgBarHarrison.pdf)
